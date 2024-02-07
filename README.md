@@ -1,4 +1,4 @@
-Hi, my name is Khongmeng Kormoua. An electrical engineering graduate from Budapest University of Technology and Economics at Budapest, Hungary. Now, currently working with Lane Xang Mineral Limited, a subsidiary of Chifeng Jilong Gold Mining Co., Ltd.
+Hi, my name is Khongmeng Kormoua. An electrical engineering graduate from Budapest University of Technology and Economics at Budapest, Hungary. Currently working with Lane Xang Mineral Limited, a subsidiary of Chifeng Jilong Gold Mining Co., Ltd.
 
 During University, I am have done many projects regarding a wide range of topic including: PCB design, AI, Microcontroller programming, Automation with PLC,
 Database, Client Application, etc. I am pretty much interest in a lot of things and quite flexible.
